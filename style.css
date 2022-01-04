@@ -25,3 +25,9 @@
     .experience-area{background-image: url(images/exp-bg.png);
                      background-repeat: no-repeat;
                     background-position: left;}
+    #web-developer{border-left:7px solid;
+                        border-image: linear-gradient(orangered, tomato);
+                         border-image-slice: 1;}
+    #baby-web-developer{border-left:7px solid;
+        border-image: linear-gradient(rgb(25, 0, 255), rgb(71, 255, 95));
+         border-image-slice: 1;}
