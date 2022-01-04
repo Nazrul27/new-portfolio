@@ -2,7 +2,7 @@
         margin: 0;}
     h1{font-size:50px;}
     .orange-color{color:gold;}
-    section{display: flex;
+    .flex-container{display: flex;
             margin-bottom:150px;}
     .half-width{width: 50%;
                 padding-left:5%;}
@@ -17,3 +17,11 @@
     .dream-big{background-image: url(images/dream-bg.png);
             background-repeat: no-repeat;
             background-position: right;}
+    .experience-item{width: 40%;
+                     margin-left: 5%;
+                     margin-right: 5%;
+                     padding: 20px;
+                     box-shadow: 10px 10px 40px gray;}
+    .experience-area{background-image: url(images/exp-bg.png);
+                     background-repeat: no-repeat;
+                    background-position: left;}
