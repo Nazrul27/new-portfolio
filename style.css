@@ -31,3 +31,4 @@
     #baby-web-developer{border-left:7px solid;
         border-image: linear-gradient(rgb(25, 0, 255), rgb(71, 255, 95));
          border-image-slice: 1;}
+    footer p{text-align:center;}
